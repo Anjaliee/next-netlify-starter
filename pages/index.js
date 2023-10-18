@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Eco-Friendly Smart Clothing Service" />
         <p className="description">
           <!DOCTYPE html>
 <html>
@@ -19,7 +19,6 @@ export default function Home() {
     <title>Eco-Friendly Smart Clothing Service</title>
 </head>
 <body>
-
 <h1>Eco-Friendly Smart Clothing Service: The Future of Sustainable Fashion</h1>
 
 <!-- Lead Paragraph -->
